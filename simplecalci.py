@@ -18,4 +18,4 @@ print(blue + bold + " <=========https://dev-regaanthamimprogramming.pantheonsite
 
 
 rthacks = input("YOUR EXPRESSION : ")
-print(blue + "ANSWER : " , eval(rthacks) + blue)
+print(blue +""" "ANSWER : " , eval(rthacks) """ + blue)
