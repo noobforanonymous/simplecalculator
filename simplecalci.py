@@ -16,8 +16,12 @@ print(green + """
 print(red + bold + "   <====YOUTUBE CHANNEL NAME : RTHACKS====> \n" + clear)
 print(blue + bold + " <=========https://dev-regaanthamimprogramming.pantheonsite.io/=======> \n" + clear)
 
-print(blue + """
+
 rthacks = input("YOUR EXPRESSION : ")
-""" + blue)
 print("ANSWER : " , eval(rthacks))
 
+print(blue + """
++-+-+-+-+-+-+ +-+-+-+ +-+-+-+-+-+ +-+-+-+-+ +-+-+-+-+ +-+-+-+-+ +-+-+ +-+-+ +-+-+-+-+-+                                    
+|T|H|A|N|K|S| |F|O|R| |U|S|I|N|G| |T|H|I|S| |T|O|O|L| |C|O|D|E| |B|Y| |R|T| |H|A|C|K|S|                                    
++-+-+-+-+-+-+ +-+-+-+ +-+-+-+-+-+ +-+-+-+-+ +-+-+-+-+ +-+-+-+-+ +-+-+ +-+-+ +-+-+-+-+-+
+""" + blue)
