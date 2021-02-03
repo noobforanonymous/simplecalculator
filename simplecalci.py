@@ -20,8 +20,8 @@ print(blue + bold + " <=========https://dev-regaanthamimprogramming.pantheonsite
 rthacks = input("YOUR EXPRESSION : ")
 print("ANSWER : " , eval(rthacks))
 
-print(blue + """
+print(green + """
 +-+-+-+-+-+-+ +-+-+-+ +-+-+-+-+-+ +-+-+-+-+ +-+-+-+-+ +-+-+-+-+ +-+-+ +-+-+ +-+-+-+-+-+                                    
 |T|H|A|N|K|S| |F|O|R| |U|S|I|N|G| |T|H|I|S| |T|O|O|L| |C|O|D|E| |B|Y| |R|T| |H|A|C|K|S|                                    
 +-+-+-+-+-+-+ +-+-+-+ +-+-+-+-+-+ +-+-+-+-+ +-+-+-+-+ +-+-+-+-+ +-+-+ +-+-+ +-+-+-+-+-+
-""" + blue)
+""" + green)
