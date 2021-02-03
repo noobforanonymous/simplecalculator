@@ -16,8 +16,8 @@ print(green + """
 print(red + bold + "   <====YOUTUBE CHANNEL NAME : RTHACKS====> \n" + clear)
 print(blue + bold + " <=========https://dev-regaanthamimprogramming.pantheonsite.io/=======> \n" + clear)
 
-
-rthacks = input("YOUR EXPRESSION : ")
 print(blue + """
-print("ANSWER : " , eval(rthacks))
+rthacks = input("YOUR EXPRESSION : ")
 """ + blue)
+print("ANSWER : " , eval(rthacks))
+
