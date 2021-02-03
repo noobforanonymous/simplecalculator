@@ -4,6 +4,10 @@ easy to calculate
  installation method 
  
  apt update 
+
+ pkg install figlet
+ 
+ pkg install lolcat
  
  pkg install python -y
  
