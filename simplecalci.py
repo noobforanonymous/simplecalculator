@@ -1,4 +1,3 @@
-from pyfiglet import Figlet
 
 green = '\033[1;92m'
 red = '\033[31m'
